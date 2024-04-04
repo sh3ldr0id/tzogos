@@ -1,0 +1,9 @@
+{
+    "tesseract": "C:/Users/sh3ld/AppData/Local/Programs/Tesseract-OCR/tesseract.exe",
+    "locations": {
+        "game":[712, 330, 501, 178],
+        "multiplier": [672, 636],
+        "amount": [351, 313],
+        "bet": [465, 429]
+    }
+}
